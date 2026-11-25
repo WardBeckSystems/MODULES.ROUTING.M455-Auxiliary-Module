@@ -1,0 +1,16 @@
+{
+ "code": "M455",
+ "connector": "RTO-144",
+ "type": "M455 - Auxiliary Module",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M455/M455.rto144.json"
+ ]
+}
