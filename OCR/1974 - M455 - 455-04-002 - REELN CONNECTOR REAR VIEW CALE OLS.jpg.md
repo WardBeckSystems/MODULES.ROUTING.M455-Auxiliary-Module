@@ -20,7 +20,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.7 @ (21.7, 72.8)
 - **Closed boxes:** 66
 
-Every curve, box, word and wire group: [1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS (traced).json](../PINOUTS/1974%20-%20M455%20-%20455-04-002%20-%20REELN%20CONNECTOR%20REAR%20VIEW%20CALE%20OLS%20(traced).json) (the CAD file: `1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS (traced).json](../PINOUTS/1974%20-%20M455%20-%20455-04-002%20-%20REELN%20CONNECTOR%20REAR%20VIEW%20CALE%20OLS%20%28traced%29.json) (the CAD file: `1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS (traced).dxf`).
 
 ## Full text
 

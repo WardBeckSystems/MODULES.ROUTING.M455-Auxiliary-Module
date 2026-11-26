@@ -24,7 +24,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Title block:** (245, 3)–(432, 96) mm: W/77 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN;PMAHoNsy · M455 · ENG_ · AUXILIARY · MODULE · CKD Rll · FUNCTIONAL DIAGRAM · APP · ~SCALE · ISSUE · 455-01-001
 - **Wiring (first pass):** 37 connected wire groups from 93 runs; labelled ends: 135 mm → 7/78, W/77; 120 mm → EXT, AUX, METeR INPUT; 120 mm → (-15dB), (-33dB); 102 mm → 8-109C, ON, (-6dB); 56 mm → EXT, AUX
 
-Every curve, box, word and wire group: [1974 - M455 - 455-01-001 - RYLU FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1974%20-%20M455%20-%20455-01-001%20-%20RYLU%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1974 - M455 - 455-01-001 - RYLU FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M455 - 455-01-001 - RYLU FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1974%20-%20M455%20-%20455-01-001%20-%20RYLU%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1974 - M455 - 455-01-001 - RYLU FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Title block:** (322, 13)–(398, 48) mm: WBS WAAD-Beck · Pm · M455 · AUXILIARY MODULE · CKD_ 444 · SCHEMATIC · SCALE · it · TOLS · 455-02-001
 - **Wiring (first pass):** 100 connected wire groups from 389 runs; labelled ends: 321 mm → ISSMopCcKol, [755, zep, 225L; 230 mm → 12}, 88, R28, 300; 119 mm → 12}, 88, 1E4; 107 mm → Tip298R42, 5.6, R43, PN3569; 97 mm → C4, 22/25, CRA, 1n4003
 
-Every curve, box, word and wire group: [1974 - 455-02-001 - AUXILIARY MODULE SCHEMATIC - DRN DM - ISS 6 (traced).json](../SCHEMATICS/1974%20-%20455-02-001%20-%20AUXILIARY%20MODULE%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%206%20(traced).json) (the CAD file: `1974 - 455-02-001 - AUXILIARY MODULE SCHEMATIC - DRN DM - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 455-02-001 - AUXILIARY MODULE SCHEMATIC - DRN DM - ISS 6 (traced).json](../SCHEMATICS/1974%20-%20455-02-001%20-%20AUXILIARY%20MODULE%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1974 - 455-02-001 - AUXILIARY MODULE SCHEMATIC - DRN DM - ISS 6 (traced).dxf`).
 
 ## Full text
 

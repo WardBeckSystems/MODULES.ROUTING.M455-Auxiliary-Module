@@ -22,7 +22,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Closed boxes:** 17
 - **Wiring (first pass):** 53 connected wire groups from 245 runs
 
-Every curve, box, word and wire group: [1974 - M455 - 455-01-001 - RULU FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1974%20-%20M455%20-%20455-01-001%20-%20RULU%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1974 - M455 - 455-01-001 - RULU FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M455 - 455-01-001 - RULU FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1974%20-%20M455%20-%20455-01-001%20-%20RULU%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1974 - M455 - 455-01-001 - RULU FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

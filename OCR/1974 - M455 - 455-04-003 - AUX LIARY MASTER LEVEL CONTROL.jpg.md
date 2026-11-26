@@ -22,7 +22,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Words (OCR):** 84 in 50 lines: WBS · M455 · WBS · AUXILIARY MASTER LEVEL control · RI/2: · Controls gna · leve · of both outputs_ · VU Meter · Indicates · leve | of modu le · AUX
 - **Title block:** (154, 0)–(395, 415) mm: WBS · M455 · WBS · AUXILIARY MASTER LEVEL control · RI/2: · Controls gna · leve · of both outputs_ · AUX · EXt · RzA · AUX · On switcn · Sw7 : When depressed, · ON · feeds output gna to · SwitCHED out
 
-Every curve, box, word and wire group: [1974 - M455 - 455-04-003 - AUX LIARY MASTER LEVEL CONTROL (traced).json](../MECHANICAL/1974%20-%20M455%20-%20455-04-003%20-%20AUX%20LIARY%20MASTER%20LEVEL%20CONTROL%20(traced).json) (the CAD file: `1974 - M455 - 455-04-003 - AUX LIARY MASTER LEVEL CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M455 - 455-04-003 - AUX LIARY MASTER LEVEL CONTROL (traced).json](../MECHANICAL/1974%20-%20M455%20-%20455-04-003%20-%20AUX%20LIARY%20MASTER%20LEVEL%20CONTROL%20%28traced%29.json) (the CAD file: `1974 - M455 - 455-04-003 - AUX LIARY MASTER LEVEL CONTROL (traced).dxf`).
 
 ## Full text
 

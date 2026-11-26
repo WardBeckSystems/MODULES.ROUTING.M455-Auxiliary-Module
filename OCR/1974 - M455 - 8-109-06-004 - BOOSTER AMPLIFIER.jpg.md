@@ -22,7 +22,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Words (OCR):** 111 in 104 lines: E7 · E2 · ~C133/10 · 23/ · RI6 22k · ~R?_47k · 22k · 6k2 · R4 Gk? · ~Ri8 · RS · ~R2z
 - **Title block:** (130, 1)–(432, 130) mm: WBS · 8-109 · 2zoligcl6 - · ~CI5-Z2o/o · ~R36 4k7 · ~R374k7 · ISSUE DATE · REVISION · APP · EG @ · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109€ · ENG.MRW 4/78 · BOOSTER · AMPLIFIER · CKD. · LAYOUT · CO
 
-Every curve, box, word and wire group: [1974 - M455 - 8-109-06-004 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M455%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1974 - M455 - 8-109-06-004 - BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M455 - 8-109-06-004 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M455%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1974 - M455 - 8-109-06-004 - BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

@@ -24,7 +24,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Title block:** (228, 1)–(398, 45) mm: ISS MOD CKD: · USED ON · MATL · [ss1 · WBS WAAD-BeCK BYBTEMB LtD · Dm · 2251 · DRA: · M455 · 3462 · FINISH · DATE OCI /u4 · AUXILIARY MODULE · 3533 · CKD_ · SCHEMATIC · SCALE · TOLS _ · 455-02-001
 - **Wiring (first pass):** 106 connected wire groups from 351 runs; labelled ends: 266 mm → Rg, Ik2, 6*0, 620; 156 mm → Ik2, 620, Rio, R28; 133 mm → c3, 22/25, C4, 20<; 127 mm → R42, 5.6, R43, PN3569; 121 mm → 22/25, C4, CRA, 1n400?
 
-Every curve, box, word and wire group: [1974 - M455 - 455-02-001 - AND ALL CAPACITORS (traced).json](../SCHEMATICS/1974%20-%20M455%20-%20455-02-001%20-%20AND%20ALL%20CAPACITORS%20(traced).json) (the CAD file: `1974 - M455 - 455-02-001 - AND ALL CAPACITORS (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M455 - 455-02-001 - AND ALL CAPACITORS (traced).json](../SCHEMATICS/1974%20-%20M455%20-%20455-02-001%20-%20AND%20ALL%20CAPACITORS%20%28traced%29.json) (the CAD file: `1974 - M455 - 455-02-001 - AND ALL CAPACITORS (traced).dxf`).
 
 ## Full text
 

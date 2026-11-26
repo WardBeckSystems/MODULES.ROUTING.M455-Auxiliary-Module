@@ -39,7 +39,7 @@ M455 auxiliary module assembly drawing, title block at bottom right.
 - **Words (OCR):** 38 in 32 lines: WBS · M45S · RI,R2 · VU · Aux · Swi · Aux · Swz · AUX · Sw7 · ON · 4-109C
 - **Title block:** (106, 42)–(414, 289) mm: WBS · M45S · RI,R2 · Aux · Aux · AUX · Sw7 · ON · 4-109C · (opposite) · ISS · MOD.ICKD · USED ON · MATL. · Zi8o9 · WBS WARD-BECK systeMs LTD: · 2o6 · Dm · DRN: · M455 · FINISH · DATE DEC 74 AUXILIARY 
 
-Every curve, box, word and wire group: [1974 - 455-04-001 - AUXILIARY MODULE ASSEMBLY - DRN DM - ISS 3 (traced).json](../MECHANICAL/1974%20-%20455-04-001%20-%20AUXILIARY%20MODULE%20ASSEMBLY%20-%20DRN%20DM%20-%20ISS%203%20(traced).json) (the CAD file: `1974 - 455-04-001 - AUXILIARY MODULE ASSEMBLY - DRN DM - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 455-04-001 - AUXILIARY MODULE ASSEMBLY - DRN DM - ISS 3 (traced).json](../MECHANICAL/1974%20-%20455-04-001%20-%20AUXILIARY%20MODULE%20ASSEMBLY%20-%20DRN%20DM%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1974 - 455-04-001 - AUXILIARY MODULE ASSEMBLY - DRN DM - ISS 3 (traced).dxf`).
 
 ## Full text
 

@@ -30,7 +30,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Words (OCR):** 24 in 13 lines: [~El5i] PROGRE_ AVENUl!, BCARBCRCL.lliI- II · WARD -BECK SYSTE · LTD · 8't1 · l:I'lTAAO M1H aX · 'TB..E)( D8l:I · T'£LEF'H[:NI!'''' · M455 · AUXIL IARY MODULE · ps · BS · tp
 - **Title block:** (118, 396)–(206, 421) mm: [~El5i] PROGRE_ AVENUl!, BCARBCRCL.lliI- II · WARD -BECK SYSTE · 8't1
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p1 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p1%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p1 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p1%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -42,7 +42,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p1 (trace
 - **Dots (junctions):** 1
 - **Words (OCR):** 81 in 41 lines: WA · -BE CK SYSTE MS LT · TABLE OF CONTEN TS · /1\455 · AUXILIARY MODULE · Warranty · Technical Oata · Clrc",,1t ue · at · Parts list · 3·1 to 3-3 · 109 Description
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p2 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p2%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p2 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p2%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -54,7 +54,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p2 (trace
 - **Dots (junctions):** 1
 - **Words (OCR):** 191 in 75 lines: WAFI · STEMS LTD · TECHHI CAL DATA · M45 AUXILIARY MODULE · Ga in · 33 · o.5 dB. · Fr equen cy Res po nse · dB fro 20 Hz to 20 kHz. · xc · B5 dB be low · dBm nom1na output
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p3 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p3%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p3 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p3%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -65,7 +65,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p3 (trace
 - **Closed boxes:** 2
 - **Words (OCR):** 326 in 77 lines: WA · -BECK SYS · LTD. · CIRCUIT DESCR PTION · 14455 AUX ILIARY MODU LE · The "455 · Is desig ned to · iv · ilIudio ig na · ro an · ,-ux iliary console IIh ng bus uc as the FOl DBACt: · PA bus.
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p4 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p4%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p4 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p4%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -75,7 +75,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p4 (trace
 - **Closed boxes:** 3
 - **Words (OCR):** 99 in 68 lines: F'lD · CK SYS TE MS LTD. · PARTS LIST · ""55 AUXI LIARY MODULE · PART · DESCRI PTI ON · MFG PART NUMBER · ca · CJ · C4 · CR · OiOd
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p5 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p5%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p5 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p5%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -86,7 +86,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p5 (trace
 - **Closed boxes:** 17
 - **Words (OCR):** 98 in 52 lines: WA~ · ECK YSTEM LT · PARTS LIST · 14455 AUX LIARY MODULE · PART · DESCR IPTION · HFG PART NUMBER · Resi or lrll 5S · JOO · JOO · JOO · RJO
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p6 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p6%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p6 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p6%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -95,7 +95,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p6 (trace
 - **Outlines:** line 98 rings, 1,256 straight (3,649 mm) / 200 curved (324 mm); text 37 rings, 265 straight (339 mm) / 81 curved (131 mm)
 - **Words (OCR):** 15 in 8 lines: AR · CK SYS EMS LTC · 109 AMPLI FI ER SERIES · ps · BS · tp · ht · 109
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p7 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p7%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p7 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p7%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p7 (trace
 - **Dots (junctions):** 6
 - **Words (OCR):** 233 in 95 lines: Fl · CI< VSTEMS LTD · 10 AMPL IFI ER SERI ES · The · 8-109 ser ies · amQllfie..... are utili zed as an inte"" · componen · in var iou · was ser ie · of aud io console modules · Each · 8-109
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p8 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p8%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p8 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p8%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -118,7 +118,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p8 (trace
 - **Dots (junctions):** 5
 - **Words (OCR):** 337 in 156 lines: Fl · CK · STEMS LTO · 109 AMPLIF IE SERIES · Ou tpu L.e vel · +30 dBm max Imum · Pow · ReQ ui me ts · 21 · vo tl dc, 18 rnA Quie5C.. nt Cu · nl · mA "II +30 dB
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p9 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p9%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p9 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p9%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -129,7 +129,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p9 (trace
 - **Dots (junctions):** 1
 - **Words (OCR):** 139 in 93 lines: WARD -BEC SYS TE · LTD. · PARTS LIS · 109 AHPLIFIER SERIES · 109 · PART · DESCRI PTI ON · Mro · HFG PART NUH8ER · CI · Capa~1tor 33 · I(ellet
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p10 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p10%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p10 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p10%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -140,7 +140,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p10 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 77 in 56 lines: WARD -SECK SYS · LTD. · PARTS LI ST · 109 AMPLI FIE SERIE · !.:.!.Q.i · PART · DESCRIPTION · HFG · HFG · PART NUMB ER · R4 · Res !tor
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p11 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p11%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p11 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p11%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -152,7 +152,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p11 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 106 in 62 lines: WAI=lD -BE CK · MS LTD · PARTS LI ST · ID9 AMPLIF IER SERIES · PART · DESCRI PTION · MFG PART NUMBER · R36 · R37 · 38 · let · Zl
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p12 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p12%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p12 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p12%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -164,7 +164,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p12 (trac
 - **Dots (junctions):** 2
 - **Words (OCR):** 125 in 71 lines: WARO · CK YS TEMS · 109 AMPLIFIER SERIES · Al pa ts as pe · -109 xcep as noted below · PART · OESCRIPTION · MFG · MFG PART NUMB ER · gl · pa 1t · pF
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p13 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p13%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p13 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p13%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -175,7 +175,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p13 (trac
 - **Closed boxes:** 2
 - **Words (OCR):** 101 in 40 lines: WAI=ID · ECK · MS LTD. · PARTS LI ST · -109 AMPLIF IER SERI ES · Al pa rts as per · 109 except IS note be low · PART · DESCRIPTION · MFG PART NUMBER · gl · ft or
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p14 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p14%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p14 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p14%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -188,7 +188,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p14 (trac
 - **Words (OCR):** 70 in 47 lines: modU~ · VU · Meter: · Indica tes · eve · of · utp ut · na · When · deo- · meter · AU'
 - **Title block:** (256, 3)–(395, 71) mm: BS REVISION · ISSlI: oAn · (VVE3S) WARD-BECK SYSTEMS · ORN.:Y 1'It4~ · tp · M455 · 'NC. ht AUXILIARY t.'DDUlE · CKD.1?;h.. · FRONT PANEl · APP.~. · AI 55-0 4-0 · rs SUE · "$CAl.'
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p15 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p15%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p15 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p15%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -200,7 +200,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p15 (trac
 - **Words (OCR):** 64 in 45 lines: VU · EXT METER INPUT · EXT · +ldBm · 600 OHM · AUX · AUXILIARY INPUT · SWITCHED OUTPUT · -10dBm · +ldBm · 600 OHM · (-ldB)
 - **Title block:** (246, 3)–(432, 94) mm: 11/77 · REDRAWN · 4J'£- · ISSUE DATE · REVISION · APP. · (VVE3S] WARe-BECK SYSTEMS · ca · ps · DRN.:p~J.lo~ · BS · M455 · ENG. · AUXILIARY MODULE · CKD.'K~ · FUNCTIONAL · tp DIAGRAM · APP.~ · ht · ~cA
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p16 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p16%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p16 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p16%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -213,7 +213,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p16 (trac
 - **Words (OCR):** 178 in 133 lines: J8 · sw2 JIO · 3b · RSS · R3g · E.XTER NAl · ME TER · J7 · 5k · 10 · 9/0 · VU
 - **Title block:** (229, 1)–(340, 44) mm: MOD. CKD. · USED ON · MATl. · "10 · DRN. · 3-*2 · FINISH · DATE OCT. 74 · CKD · "i'1W( · 3538 · SCALE · :iaf:. · TOLS
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p17 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p17%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p17 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p17%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -226,7 +226,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p17 (trac
 - **Words (OCR):** 109 in 79 lines: lP · vu · R29 · 2PO · -R3()2?° · R27.l° · -R28~ · I3 · l.K2 · R9 · it? · 1£5
 - **Title block:** (300, 12)–(425, 44) mm: (EEIJ WARD-SECK SYSTEMS LTD · tp · DRN. · lYf · M455 · DATE · QEC./ 74 · ht AUXILIARY MODULE · "'I.l-l · CK · COMPONENT LAYOUT
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p18 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p18%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p18 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p18%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -238,7 +238,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p18 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 40 in 32 lines: £IT. HETER · C3 · AVI OUT DIR · rc · rc · tc It · rc · rc · tc · rc · tc · 14
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p19 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p19%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p19 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p19%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -250,7 +250,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p19 (trac
 - **Words (OCR):** 135 in 116 lines: E3 · +180v · R'3 · C3 · 10 · K7 · 22 · P\o.l3G.4 · EI · RS · 2N '2102 · G/3
 - **Title block:** (348, 0)–(432, 41) mm: ISSUE DATE · A£VtslON · lAPP. · tp · [\NBS] WARD-BECK SYSTEMS · ht E8 · ORN · 09 · ENG.M RW 4/78 · BOOSTER AM PLIFIER · CKO.rI""",- · SCHEM ATIC · SCALE · rs.... · 8-10 · -00
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p20 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p20%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p20 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p20%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -262,7 +262,7 @@ Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p20 (trac
 - **Words (OCR):** 99 in 74 lines: E7 · C8~ ep · IB · 21 4-1<7 · R20 · 4-7 · 1II · N4-14 · IN4 14 · \II · CR\ · -l4- cR
 - **Title block:** (258, 2)–(432, 81) mm: ISSUEl ATE · REVISION · APP. · [\N8S) \NARC-BECK SYS TEM · ps · BS · ORN. GE · 109C · ENG.M RW · 78 · BO OSTER · PLIFIER · CK · 72dJ.-.- · tp · CO PO EN LAYO UT · ht · APP. · ISSUE · SCALE · sl
 
-Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p21 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p21%20(traced).json) (the CAD file: `1979 - M455 - Auxiliary Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M455 - Auxiliary Module p21 (traced).json](../MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module%20p21%20%28traced%29.json) (the CAD file: `1979 - M455 - Auxiliary Module p21 (traced).dxf`).
 
 ## Full text
 

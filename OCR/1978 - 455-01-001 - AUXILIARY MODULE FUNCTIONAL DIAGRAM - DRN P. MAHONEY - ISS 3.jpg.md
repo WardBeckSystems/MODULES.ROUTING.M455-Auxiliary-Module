@@ -35,7 +35,7 @@ Wiki page: [M455](../../../../PAGES/M455.md)
 - **Closed boxes:** 17
 - **Wiring (first pass):** 45 connected wire groups from 206 runs
 
-Every curve, box, word and wire group: [1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3 (traced).json](../SCHEMATICS/1978%20-%20455-01-001%20-%20AUXILIARY%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20MAHONEY%20-%20ISS%203%20(traced).json) (the CAD file: `1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3 (traced).json](../SCHEMATICS/1978%20-%20455-01-001%20-%20AUXILIARY%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20MAHONEY%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3 (traced).dxf`).
 
 ## Full text
 
