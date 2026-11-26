@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/ROUTING/M455/MANUALS/1974 - M455 - Auxiliary Module.pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/4b76eda160e66fd5-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 331.2, 421.7],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 748, "mm": 2906.0}, "curved": {"n": 74, "mm": 109.7}},
+  "text": {"rings": 68, "straight": {"n": 551, "mm": 695.3}, "curved": {"n": 144, "mm": 217.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [33.9, 411.3, 150.5, 418.2], "text": "WAAD-BECK SYSTEms LTD;"},
+   {"mm": [130.0, 288.9, 150.9, 295.8], "text": "8-109"},
+   {"mm": [153.5, 287.6, 219.6, 295.9], "text": "AMPLIFIER SERIES"},
+   {"mm": [160.8, 10.4, 182.9, 17.8], "text": "8-109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 0–422 mm up",
+  "- **Outlines:** line 32 rings, 748 straight (2,906 mm) / 74 curved (110 mm); text 68 rings, 551 straight (695 mm) / 144 curved (217 mm)",
+  "- **Words (OCR):** 6 in 4 lines: WAAD-BECK SYSTEms LTD; · 8-109 · AMPLIFIER SERIES · 8-109"
+ ]
+}

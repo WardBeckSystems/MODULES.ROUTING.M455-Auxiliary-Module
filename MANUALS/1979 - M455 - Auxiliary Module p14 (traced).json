@@ -1,0 +1,87 @@
+{
+ "drawing": "Modules/ROUTING/M455/MANUALS/1979 - M455 - Auxiliary Module.pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/382a608910426a2f-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 325.0, 431.8],
+ "outlines": {
+  "line": {"rings": 314, "straight": {"n": 3583, "mm": 7325.7}, "curved": {"n": 784, "mm": 1218.6}},
+  "text": {"rings": 339, "straight": {"n": 2668, "mm": 2997.6}, "curved": {"n": 762, "mm": 1202.3}}
+ },
+ "circles": [
+  {"c": [198.5, 64.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [73.5, 71.6], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [266.6, 283.9, 269.0, 286.3], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [266.4, 197.7, 268.6, 200.1], "w": 2.2, "h": 2.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 101,
+  "lines": [
+   {"mm": [35.8, 407.8, 61.1, 413.4], "text": "WAI=ID"},
+   {"mm": [71.7, 407.8, 88.1, 413.4], "text": "ECK"},
+   {"mm": [118.1, 407.8, 151.3, 413.4], "text": "MS LTD."},
+   {"mm": [150.5, 360.6, 190.4, 366.6], "text": "PARTS LI ST"},
+   {"mm": [130.4, 347.2, 214.8, 353.2], "text": "-109 AMPLIF IER SERI ES"},
+   {"mm": [45.3, 313.9, 109.2, 319.9], "text": "Al pa rts as per"},
+   {"mm": [122.4, 313.9, 220.4, 319.9], "text": "109 except IS note be low"},
+   {"mm": [45.6, 301.0, 61.3, 307.0], "text": "PART"},
+   {"mm": [74.1, 301.0, 117.4, 307.0], "text": "DESCRIPTION"},
+   {"mm": [242.0, 300.1, 301.4, 306.1], "text": "MFG PART NUMBER"},
+   {"mm": [45.1, 284.6, 57.4, 298.5], "text": "gl"},
+   {"mm": [94.3, 285.6, 109.2, 293.6], "text": "ft or"},
+   {"mm": [134.1, 286.3, 141.6, 292.3], "text": "pF"},
+   {"mm": [242.7, 285.9, 297.1, 292.8], "text": "2222-6~8 9478"},
+   {"mm": [45.6, 267.5, 57.4, 273.5], "text": "R15"},
+   {"mm": [73.6, 267.5, 144.4, 273.5], "text": "Res to lsV 51 SI"},
+   {"mm": [45.3, 227.6, 107.5, 233.6], "text": "All parts as per"},
+   {"mm": [122.4, 227.6, 161.1, 233.6], "text": "109 ex ept"},
+   {"mm": [178.1, 227.6, 222.4, 233.6], "text": "noted be ow"},
+   {"mm": [45.1, 214.6, 60.9, 220.6], "text": "PART"},
+   {"mm": [73.6, 214.6, 117.7, 220.6], "text": "DESCRIPT ION"},
+   {"mm": [186.1, 213.3, 197.1, 220.5], "text": "HFG"},
+   {"mm": [242.0, 213.7, 302.7, 219.7], "text": "MFG PART NUMBER"},
+   {"mm": [282.4, 199.9, 297.1, 206.9], "text": "94 78"},
+   {"mm": [45.1, 181.1, 57.6, 187.1], "text": "R1S"},
+   {"mm": [73.2, 181.1, 100.6, 187.1], "text": "Resi sto"},
+   {"mm": [109.2, 180.7, 152.0, 187.4], "text": "lsW 51 21<4"},
+   {"mm": [44.5, 67.8, 57.0, 73.8], "text": "WBS"},
+   {"mm": [73.0, 67.8, 144.4, 73.8], "text": "eee enes tile us of"},
+   {"mm": [157.6, 67.8, 212.0, 73.8], "text": "pla emen pa r-t"},
+   {"mm": [221.5, 67.8, 265.8, 73.8], "text": "made by he"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [48.8, 61.1, 59.2, 67.1], "text": "pec"},
+   {"mm": [73.0, 61.1, 100.2, 67.1], "text": "ed enu"},
+   {"mm": [117.4, 61.1, 147.0, 67.1], "text": "ure r-s fo"},
+   {"mm": [161.3, 53.5, 288.9, 67.1], "text": "ont nued opt raum equ pment BS"},
+   {"mm": [44.9, 54.4, 83.6, 60.4], "text": "per fo rma nc"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"},
+   {"mm": [153.3, 6.5, 187.8, 13.0], "text": "8-1 09- 2-5"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–325 mm across, 0–432 mm up",
+  "- **Outlines:** line 314 rings, 3,583 straight (7,326 mm) / 784 curved (1,219 mm); text 339 rings, 2,668 straight (2,998 mm) / 762 curved (1,202 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.9 @ (198.5, 64.4), r 1.9 @ (73.5, 71.6)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 101 in 40 lines: WAI=ID · ECK · MS LTD. · PARTS LI ST · -109 AMPLIF IER SERI ES · Al pa rts as per · 109 except IS note be low · PART · DESCRIPTION · MFG PART NUMBER · gl · ft or"
+ ]
+}

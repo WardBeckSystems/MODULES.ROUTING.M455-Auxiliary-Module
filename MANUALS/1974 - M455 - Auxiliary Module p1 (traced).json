@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/ROUTING/M455/MANUALS/1974 - M455 - Auxiliary Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/4b76eda160e66fd5-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 324.3, 429.6],
+ "outlines": {
+  "line": {"rings": 31, "straight": {"n": 751, "mm": 2925.8}, "curved": {"n": 86, "mm": 132.9}},
+  "text": {"rings": 157, "straight": {"n": 1883, "mm": 2474.4}, "curved": {"n": 437, "mm": 696.9}},
+  "tb": {"rings": 2, "straight": {"n": 106, "mm": 291.2}, "curved": {"n": 8, "mm": 15.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [123.3, 403.9, 199.9, 413.8], "text": "WAAD-BECK"},
+   {"mm": [202.5, 404.6, 287.4, 414.4], "text": "SYSTEMS LTD_"},
+   {"mm": [53.3, 395.3, 286.7, 409.9], "text": "WBS 841 PAOGRESS AVENUE; SCAABOROUCH; ONTARIO M1H2X4"},
+   {"mm": [123.3, 392.7, 176.2, 398.0], "text": "TeLeX; 065-25399"},
+   {"mm": [210.7, 392.5, 287.1, 399.2], "text": "TELEPHONE: 418/438-6550"},
+   {"mm": [147.9, 240.7, 201.2, 253.7], "text": "M455"},
+   {"mm": [139.7, 228.4, 212.0, 236.6], "text": "AUXILIARY MODULE"},
+   {"mm": [81.4, 4.7, 257.8, 11.2], "text": "DESIGN AND MANUFACTURE OF PAOFESSIONAL AUDID EOUPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [46.7, 386.7, 268.1, 422.9],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK", "SYSTEMS LTD_", "WBS 841 PAOGRESS AVENUE; SCAABOROUCH; ONTARIO M1H2X4", "TeLeX; 065-25399", "TELEPHONE: 418/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–324 mm across, 0–430 mm up",
+  "- **Outlines:** line 31 rings, 751 straight (2,926 mm) / 86 curved (133 mm); text 157 rings, 1,883 straight (2,474 mm) / 437 curved (697 mm); tb 2 rings, 106 straight (291 mm) / 8 curved (15.9 mm)",
+  "- **Words (OCR):** 11 in 8 lines: WAAD-BECK · SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE; SCAABOROUCH; ONTARIO M1H2X4 · TeLeX; 065-25399 · TELEPHONE: 418/438-6550 · M455 · AUXILIARY MODULE · DESIGN AND MANUFACTURE OF PAOFESSIONAL AUDID EOUPMENT",
+  "- **Title block:** (47, 387)–(268, 423) mm: WAAD-BECK · SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE; SCAABOROUCH; ONTARIO M1H2X4 · TeLeX; 065-25399 · TELEPHONE: 418/438-6550"
+ ]
+}

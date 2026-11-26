@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/ROUTING/M455/MANUALS/1979 - M455 - Auxiliary Module.pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/382a608910426a2f-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 331.2, 421.7],
+ "outlines": {
+  "line": {"rings": 98, "straight": {"n": 1256, "mm": 3648.7}, "curved": {"n": 200, "mm": 323.5}},
+  "text": {"rings": 37, "straight": {"n": 265, "mm": 338.8}, "curved": {"n": 81, "mm": 130.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [42.3, 410.6, 52.9, 415.9], "text": "AR"},
+   {"mm": [74.9, 410.6, 146.8, 415.9], "text": "CK SYS EMS LTC"},
+   {"mm": [139.5, 287.6, 217.8, 294.1], "text": "109 AMPLI FI ER SERIES"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"},
+   {"mm": [171.4, 10.1, 181.6, 16.1], "text": "109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 0–422 mm up",
+  "- **Outlines:** line 98 rings, 1,256 straight (3,649 mm) / 200 curved (324 mm); text 37 rings, 265 straight (339 mm) / 81 curved (131 mm)",
+  "- **Words (OCR):** 15 in 8 lines: AR · CK SYS EMS LTC · 109 AMPLI FI ER SERIES · ps · BS · tp · ht · 109"
+ ]
+}

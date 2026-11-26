@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/ROUTING/M455/MANUALS/1979 - M455 - Auxiliary Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/382a608910426a2f-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 324.3, 429.6],
+ "outlines": {
+  "line": {"rings": 139, "straight": {"n": 2090, "mm": 4721.6}, "curved": {"n": 382, "mm": 600.9}},
+  "text": {"rings": 105, "straight": {"n": 760, "mm": 1013.2}, "curved": {"n": 124, "mm": 199.8}},
+  "tb": {"rings": 14, "straight": {"n": 142, "mm": 181.5}, "curved": {"n": 33, "mm": 53.8}}
+ },
+ "circles": [{"c": [189.9, 232.7], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [279.6, 408.1, 284.1, 411.3], "w": 4.5, "h": 3.2, "from": "ring"}],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [49.7, 392.1, 257.6, 410.9], "text": "[~El5i] PROGRE_ AVENUl!, BCARBCRCL.lliI- II"},
+   {"mm": [125.0, 404.6, 241.6, 412.0], "text": "WARD -BECK SYSTE"},
+   {"mm": [266.4, 404.6, 286.9, 412.0], "text": "LTD"},
+   {"mm": [124.6, 398.1, 133.9, 402.2], "text": "8't1"},
+   {"mm": [237.7, 398.1, 282.2, 402.4], "text": "l:I'lTAAO M1H aX"},
+   {"mm": [125.0, 392.1, 156.1, 396.4], "text": "'TB..E)( D8l:I"},
+   {"mm": [213.3, 392.1, 253.5, 396.4], "text": "T'£LEF'H[:NI!''''"},
+   {"mm": [148.3, 240.1, 200.8, 250.9], "text": "M455"},
+   {"mm": [141.2, 228.4, 211.6, 234.7], "text": "AUXIL IARY MODULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [118.3, 395.9, 206.4, 420.6],
+  "from": "title-block words (training set)",
+  "text": ["[~El5i] PROGRE_ AVENUl!, BCARBCRCL.lliI- II", "WARD -BECK SYSTE", "8't1"]
+ },
+ "dots": [{"c": [189.8, 232.7], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–324 mm across, 0–430 mm up",
+  "- **Outlines:** line 139 rings, 2,090 straight (4,722 mm) / 382 curved (601 mm); text 105 rings, 760 straight (1,013 mm) / 124 curved (200 mm); tb 14 rings, 142 straight (182 mm) / 33 curved (53.8 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (189.9, 232.7)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 24 in 13 lines: [~El5i] PROGRE_ AVENUl!, BCARBCRCL.lliI- II · WARD -BECK SYSTE · LTD · 8't1 · l:I'lTAAO M1H aX · 'TB..E)( D8l:I · T'£LEF'H[:NI!'''' · M455 · AUXIL IARY MODULE · ps · BS · tp",
+  "- **Title block:** (118, 396)–(206, 421) mm: [~El5i] PROGRE_ AVENUl!, BCARBCRCL.lliI- II · WARD -BECK SYSTE · 8't1"
+ ]
+}
