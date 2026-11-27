@@ -100,10 +100,58 @@ Not on Google Drive yet: `M455 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-RTO-144 edge connector. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- polarity assumed: 10 contacts given + / − that the drawing does not mark (e.g. P1-A EXT METER IN +) (M455: 1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.jpg)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
+| 1 | EXT METER IN - | in | EXT METER IN - | high |
+| 2 | INTERNALLY CONNECTED | other |  | high |
+| 3 | TALKBACK IN - | in | TALKBACK IN - | high |
+| 4 | AUX OUT SW'D - | out | AUX OUT SW'D - | high |
+| 5 | AUX OUT DIR - | out | AUX OUT DIR - | high |
+| 6 | N/C | nc |  | high |
+| 7 | N/C | nc |  | high |
+| 8 | INTERNALLY CONNECTED | other |  | high |
+| 9 | INTERNALLY CONNECTED | other |  | high |
+| 10 | N/C | nc |  | high |
+| 11 | INTERNALLY CONNECTED | other |  | high |
+| 12 | INTERNALLY CONNECTED | other |  | high |
+| 13 | INTERNALLY CONNECTED | other |  | high |
+| 14 | INTERNALLY CONNECTED | other |  | high |
+| 15 | AUX IN - | in | AUX IN - | high |
+| 16 | INTERNALLY CONNECTED | other |  | high |
+| 17 | INTERNALLY CONNECTED | other |  | high |
+| 18 | INTERNALLY CONNECTED | other |  | high |
+| 19 | -25 V | power |  | high |
+| 20 | 25 V COMMON | ground |  | high |
+| 21 | +25 V | power |  | high |
+| 22 | CHASSIS GROUND | ground |  | high |
+| A | EXT METER IN + | in | EXT METER IN + | high |
+| B | INTERNALLY CONNECTED | other |  | high |
+| C | TALKBACK IN + | in | TALKBACK IN + | high |
+| D | AUX OUT SW'D + | out | AUX OUT SW'D + | high |
+| E | AUX OUT DIR + | out | AUX OUT DIR + | high |
+| F | N/C | nc |  | high |
+| H | N/C | nc |  | high |
+| J | INTERNALLY CONNECTED | other |  | high |
+| K | INTERNALLY CONNECTED | other |  | high |
+| L | N/C | nc |  | high |
+| M | INTERNALLY CONNECTED | other |  | high |
+| N | INTERNALLY CONNECTED | other |  | high |
+| P | INTERNALLY CONNECTED | other |  | high |
+| R | INTERNALLY CONNECTED | other |  | high |
+| S | AUX IN + | in | AUX IN + | high |
+| T | INTERNALLY CONNECTED | other |  | high |
+| U | INTERNALLY CONNECTED | other |  | high |
+| V | INTERNALLY CONNECTED | other |  | high |
+| W | N/C | nc |  | high |
+| X | CONTROL COMMON | ground |  | high |
+| Y | +24 V | power |  | high |
+| Z | N/C | nc |  | high |
 
 ## Manuals and documents
 

@@ -3,14 +3,780 @@
  "connector": "RTO-144",
  "type": "M455 - Auxiliary Module",
  "series": null,
- "contacts": "",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
- "pins": [],
+ "built_from": {
+  "pictures": [
+   "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M455/M455.rto144.json",
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": "A",
+   "same_row": null,
+   "signal": "EXT METER IN -",
+   "kind": "in",
+   "port": "EXT METER IN",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": "B",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": "C",
+   "same_row": null,
+   "signal": "TALKBACK IN -",
+   "kind": "in",
+   "port": "TALKBACK IN",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": "D",
+   "same_row": null,
+   "signal": "AUX OUT SW'D -",
+   "kind": "out",
+   "port": "AUX OUT SW'D",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": "E",
+   "same_row": null,
+   "signal": "AUX OUT DIR -",
+   "kind": "out",
+   "port": "AUX OUT DIR",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": "F",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": "H",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": "J",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": "K",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": "L",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": "M",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": "N",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": "P",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": "R",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": "S",
+   "same_row": null,
+   "signal": "AUX IN -",
+   "kind": "in",
+   "port": "AUX IN",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": "T",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": "U",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": "V",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "ref": "19",
+   "also": "W",
+   "same_row": null,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "ref": "20",
+   "also": "X",
+   "same_row": null,
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "ref": "21",
+   "also": "Y",
+   "same_row": null,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": "Z",
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": "1",
+   "same_row": null,
+   "signal": "EXT METER IN +",
+   "kind": "in",
+   "port": "EXT METER IN",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": "2",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": "3",
+   "same_row": null,
+   "signal": "TALKBACK IN +",
+   "kind": "in",
+   "port": "TALKBACK IN",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": "4",
+   "same_row": null,
+   "signal": "AUX OUT SW'D +",
+   "kind": "out",
+   "port": "AUX OUT SW'D",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": "5",
+   "same_row": null,
+   "signal": "AUX OUT DIR +",
+   "kind": "out",
+   "port": "AUX OUT DIR",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": "6",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": "7",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": "8",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": "9",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": "10",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": "11",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": "12",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": "13",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": "14",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": "15",
+   "same_row": null,
+   "signal": "AUX IN +",
+   "kind": "in",
+   "port": "AUX IN",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": "16",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": "17",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": "18",
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": "19",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": "20",
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": "21",
+   "same_row": null,
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": "22",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M455/PINOUTS/1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "EXT METER IN",
+   "dir": "in",
+   "pins": {
+    "+": "P1-A",
+    "-": "P1-1"
+   }
+  },
+  {
+   "name": "TALKBACK IN",
+   "dir": "in",
+   "pins": {
+    "+": "P1-C",
+    "-": "P1-3"
+   }
+  },
+  {
+   "name": "AUX OUT SW'D",
+   "dir": "out",
+   "pins": {
+    "+": "P1-D",
+    "-": "P1-4"
+   }
+  },
+  {
+   "name": "AUX OUT DIR",
+   "dir": "out",
+   "pins": {
+    "+": "P1-E",
+    "-": "P1-5"
+   }
+  },
+  {
+   "name": "AUX IN",
+   "dir": "in",
+   "pins": {
+    "+": "P1-S",
+    "-": "P1-15"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [],
- "power": [],
- "sources": [
-  "Engineering/RTO-144/M455/M455.rto144.json"
+ "conflicts": [],
+ "to_check": [
+  {
+   "what": "polarity assumed",
+   "pin": null,
+   "detail": "10 contacts given + / − that the drawing does not mark (e.g. P1-A EXT METER IN +) (M455: 1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.jpg)"
+  }
  ]
 }
