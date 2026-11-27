@@ -1,0 +1,24 @@
+{
+ "module": "M455",
+ "source": {
+  "file": "MANUALS/1979 - M455 - Auxiliary Module.pdf",
+  "pages": [
+   4,
+   5
+  ]
+ },
+ "ocr_quality": 0.79,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": "14455 AUXILIARY MODULE",
+   "paragraphs": [
+    "The \"455 Is designed tore c e iv e a n ilIudio signal fro. an,-ux iliary console IIh f ng buss uc has the FOl DBACt: o r PA bus. A !las terr eve t control Is provided and ills witched output as well a sill dfrect output a ee lIa de ayaf1illble, both at a standnd level of +B dB•.",
+    "The AUXILIARY Input connects to pins 15/5. The signal continues y i a the AUXILIARY MASTER level control RlIR2 t o the input of the booster a.plifler B-I09C.",
+    "The external TAlKBACK signal, originating fro. pins 3/C, Is Injected at this point and. h e d with thea ux il ia ry signal. Fro ll the output oft he booster a.p l ffier, the DIRECT output Is fed yia ls o1illtfon resistors R27 and R18 t o pins 5/E. The SWITCHED output is routed yia SW7 and lso1illtfon resistors Rl9 and R3D to pins 4/0. Additfo na lly, the booster output supplies the yu. e t e r feed 'fla switch SW2.",
+    "\"eterin9 Switches SWI and SWl are the vu e e ter selectors, per.it Ung. on ito rf ng of either the B-I09C output (14455 output) or o f 'n e x t erna l source, which. ay be connected at pins I /A. The standard vu.e teri.pedance Is 7,5 00 ohms, the ee t e r befng calibrated tor ea d 0 YU liIhen bridged across a 600 oh.. source at ale ve l of +8 dBIi.",
+    "POliler SupplY Decoupling An active power supply de coup lfng network consisting o f QI through Q6 provides a high degree of fso1illtion between the \"455 and the t25 'Iolt sup ply rails. Trans fst or s QS and Q6 serve as current ne n t tc r sand will l ill it the current flowing through the pass tran sfstors Q3 and Q4 f n the !'lent excess tve power supply demandS should arise as ares ult of c.o l'lponen t failure."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,239 @@
+{
+ "module": "M455",
+ "title": "M455 AUXILIARY MODULE",
+ "source": {
+  "file": "MANUALS/1974 - M455 - P3.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "33 dB ±0.5 dB",
+   "quantities": [
+    {
+     "value": 33,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "Noise: ±0.25 dB from 20 Hz to 20 kHz. 85 dB below +8 dBm nomina] output level (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 85,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% THD from 20 Hz to 20 kHz at +24 dBm output or Tess Less than 0.1% at kHz at +24 dbm output",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 24,
+     "unit": "dbm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "600 ohm or Tess, balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "Auxiliary Input: Talkback Input: Meter Input: 600 ohm balanced 24 000 ohm, balanced _ 7,500 ohm, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 0,
+     "unit": "ohm"
+    },
+    {
+     "value": 7500,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "Auxiliary Input: Talkback Input: Meter Input: -10 dBm nomina ] +30 dBm maximum. +8 dBm nomina ] +8 dBm for 0 vu reading.",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "600 ohm, balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "600 ohm, baLanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Output level power requirements",
+   "key": "output_level_power_requirement",
+   "text": "+8 dBm nomina] +24 dBm maximum. +25 volts dc, 20 mA nomina], 75 ma maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 20,
+     "unit": "mA"
+    },
+    {
+     "value": 75,
+     "unit": "ma"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "Dimensions: 0 to 60 degrees Celsius _ 1.6\" wide X 7\" high X 6.5\" deep. (41 mm X 178 mm X 165 mm)",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1974 - M455 - P003 - 1-1.jpg",
+   "page": 1
+  }
+ ]
+}

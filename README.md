@@ -13,6 +13,49 @@ Ward-Beck Systems M455, 1974|7. Wiki page: [M455 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 50 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [6 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1974 - M455 - P3.jpg](MANUALS/1974%20-%20M455%20-%20P3.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 33 dB ±0.5 dB |
+| **Frequency response** | Noise: ±0.25 dB from 20 Hz to 20 kHz. 85 dB below +8 dBm nomina] output level (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.25% THD from 20 Hz to 20 kHz at +24 dBm output or Tess Less than 0.1% at kHz at +24 dbm output |
+| **Source impedances** | 600 ohm or Tess, balanced |
+| **Input impedances** | Auxiliary Input: Talkback Input: Meter Input: 600 ohm balanced 24 000 ohm, balanced _ 7,500 ohm, balanced. |
+| **Input levels** | Auxiliary Input: Talkback Input: Meter Input: -10 dBm nomina ] +30 dBm maximum. +8 dBm nomina ] +8 dBm for 0 vu reading. |
+| **Output impedances** | 600 ohm, balanced |
+| **Load impedances** | 600 ohm, baLanced |
+| **Output level power requirements** | +8 dBm nomina] +24 dBm maximum. +25 volts dc, 20 mA nomina], 75 ma maximum. |
+| **Ambient temperature** | Dimensions: 0 to 60 degrees Celsius _ 1.6&quot; wide X 7&quot; high X 6.5&quot; deep. (41 mm X 178 mm X 165 mm) |
+
+## Circuit description
+
+From [1979 - M455 - Auxiliary Module.pdf](MANUALS/1979%20-%20M455%20-%20Auxiliary%20Module.pdf) pages 4-5 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**14455 AUXILIARY MODULE**
+
+The &quot;455 Is designed tore c e iv e a n ilIudio signal fro. an,-ux iliary console IIh f ng buss uc has the FOl DBACt: o r PA bus. A !las terr eve t control Is provided and ills witched output as well a sill dfrect output a ee lIa de ayaf1illble, both at a standnd level of +B dB•.
+
+The AUXILIARY Input connects to pins 15/5. The signal continues y i a the AUXILIARY MASTER level control RlIR2 t o the input of the booster a.plifler B-I09C.
+
+The external TAlKBACK signal, originating fro. pins 3/C, Is Injected at this point and. h e d with thea ux il ia ry signal. Fro ll the output oft he booster a.p l ffier, the DIRECT output Is fed yia ls o1illtfon resistors R27 and R18 t o pins 5/E. The SWITCHED output is routed yia SW7 and lso1illtfon resistors Rl9 and R3D to pins 4/0. Additfo na lly, the booster output supplies the yu. e t e r feed 'fla switch SW2.
+
+&quot;eterin9 Switches SWI and SWl are the vu e e ter selectors, per.it Ung. on ito rf ng of either the B-I09C output (14455 output) or o f 'n e x t erna l source, which. ay be connected at pins I /A. The standard vu.e teri.pedance Is 7,5 00 ohms, the ee t e r befng calibrated tor ea d 0 YU liIhen bridged across a 600 oh.. source at ale ve l of +8 dBIi.
+
+POliler SupplY Decoupling An active power supply de coup lfng network consisting o f QI through Q6 provides a high degree of fso1illtion between the &quot;455 and the t25 'Iolt sup ply rails. Trans fst or s QS and Q6 serve as current ne n t tc r sand will l ill it the current flowing through the pass tran sfstors Q3 and Q4 f n the !'lent excess tve power supply demandS should arise as ares ult of c.o l'lponen t failure.
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
