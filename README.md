@@ -1,17 +1,17 @@
-# M455 · Routing
+# M455 Auxiliary Module · Routing
 
 Ward-Beck Systems M455, 1974|7. Wiki page: [M455 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M455.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 49 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 48 |
 | [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 18 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 158 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 50 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 49 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -86,7 +86,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVFhpb2IwV04xdWs/view?resourcekey=0-Zzj4M2EAay7jGhxF7WL2Lg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVFhpb2IwV04xdWs&resourcekey=0-Zzj4M2EAay7jGhxF7WL2Lg" width="240" alt="1974 - M455 - 8-109-06-004 - BOOSTER AMPLIFIER.jpg"></a><br><sub>1974|7 · 8-109-06-004 - BOOSTER AMPLIFIER · <a href="SCHEMATICS/1974%20-%20M455%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1G2ukrnEDQ7E-eHxHmanMja5zEEUdlVPg/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1G2ukrnEDQ7E-eHxHmanMja5zEEUdlVPg" width="240" alt="19xx - M455 - DOC - 455-02-001 - COM REG.png"></a><br><sub>19xx - M455 - DOC - 455-02-001 - COM REG · <a href="SCHEMATICS/19xx%20-%20M455%20-%20DOC%20-%20455-02-001%20-%20COM%20REG%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 455-02-001 - AUXILIARY MODULE SCHEMATIC - DRN DM - ISS 6.png`, `1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3 (2).jpg`, `1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3.jpg`, `19xx - 455-01-001.jpg`
+Not on Google Drive yet: `1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3 (2).jpg`, `1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3.jpg`, `19xx - 455-01-001.jpg`
 
 ## Pinouts
 
