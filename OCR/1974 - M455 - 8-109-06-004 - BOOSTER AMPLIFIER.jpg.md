@@ -1,5 +1,5 @@
 # 1974 - M455 - 8-109-06-004 - BOOSTER AMPLIFIER.jpg
-Wiki page: [M455](../../../../PAGES/M455.md)
+Wiki page: [M455](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

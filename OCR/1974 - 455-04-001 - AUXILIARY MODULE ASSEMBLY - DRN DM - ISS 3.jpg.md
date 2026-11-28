@@ -1,5 +1,5 @@
 # 1974 - 455-04-001 - AUXILIARY MODULE ASSEMBLY - DRN DM - ISS 3.jpg
-Wiki page: [M455](../../../../PAGES/M455.md)
+Wiki page: [M455](../)
 
 
 - **Year:** 1974 (title block date)

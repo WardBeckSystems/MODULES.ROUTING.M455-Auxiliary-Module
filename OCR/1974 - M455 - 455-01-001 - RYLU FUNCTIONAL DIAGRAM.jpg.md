@@ -1,5 +1,5 @@
 # 1974 - M455 - 455-01-001 - RYLU FUNCTIONAL DIAGRAM.jpg
-Wiki page: [M455](../../../../PAGES/M455.md)
+Wiki page: [M455](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

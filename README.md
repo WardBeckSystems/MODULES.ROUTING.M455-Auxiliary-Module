@@ -1,6 +1,6 @@
 # M455 Auxiliary Module · Routing
 
-Ward-Beck Systems M455, 1974|7. Wiki page: [M455 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M455.html)
+Ward-Beck Systems M455, 1974|7. Wiki page: [M455 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M455-Auxiliary-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

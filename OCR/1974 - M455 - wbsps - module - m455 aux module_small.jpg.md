@@ -1,5 +1,5 @@
 # 1974 - M455 - wbsps - module - m455 aux module_small.jpg
-Wiki page: [M455](../../../../PAGES/M455.md)
+Wiki page: [M455](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

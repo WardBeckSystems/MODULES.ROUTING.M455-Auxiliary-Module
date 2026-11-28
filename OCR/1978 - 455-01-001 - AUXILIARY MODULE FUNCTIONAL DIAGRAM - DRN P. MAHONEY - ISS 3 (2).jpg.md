@@ -1,5 +1,5 @@
 # 1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3 (2).jpg
-Wiki page: [M455](../../../../PAGES/M455.md)
+Wiki page: [M455](../)
 
 
 - **Year:** 1978 (title block date)
