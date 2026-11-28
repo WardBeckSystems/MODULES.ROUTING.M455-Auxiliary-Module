@@ -4,13 +4,12 @@ Ward-Beck Systems M455, 1974|7. Wiki page: [M455 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 48 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 18 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 158 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 47 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 19 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 157 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 49 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -74,8 +73,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKalRSTmtfZHVCNVE/view?resourcekey=0-hk-5eO7JMkpe0ycgmMYjPw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKalRSTmtfZHVCNVE&resourcekey=0-hk-5eO7JMkpe0ycgmMYjPw" width="240" alt="1974 - M455 - 455-04-003 - AUX LIARY MASTER LEVEL CONTROL.jpg"></a><br><sub>1974|7 · 455-04-003 - AUX LIARY MASTER LEVEL CONTROL · <a href="MECHANICAL/1974%20-%20M455%20-%20455-04-003%20-%20AUX%20LIARY%20MASTER%20LEVEL%20CONTROL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT2cxU05DcG14cDA/view?resourcekey=0-BXyPSCFdnpzcaXYbqRmVLg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT2cxU05DcG14cDA&resourcekey=0-BXyPSCFdnpzcaXYbqRmVLg" width="240" alt="1974 - M455 - 455-04-003 - FEEDS OUTPUT SIY SWNACHEEPCETSED CUTPUC.jpg"></a><br><sub>1974|7 · 455-04-003 - FEEDS OUTPUT SIY SWNACHEEPCETSED CUTPUC · <a href="MECHANICAL/1974%20-%20M455%20-%20455-04-003%20-%20FEEDS%20OUTPUT%20SIY%20SWNACHEEPCETSED%20CUTPUC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1gNFOZ2eSCOc1GttnhyJGS9wuthDUxXj6/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1gNFOZ2eSCOc1GttnhyJGS9wuthDUxXj6" width="240" alt="19xx - M455 - DOC - 465-03-002 - UNC NOIE.jpg"></a><br><sub>19xx - M455 - DOC - 465-03-002 - UNC NOIE · <a href="MECHANICAL/19xx%20-%20M455%20-%20DOC%20-%20465-03-002%20-%20UNC%20NOIE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 455-04-001 - AUXILIARY MODULE ASSEMBLY - DRN DM - ISS 3.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M455.stl`](MECHANICAL/M455.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M455)
@@ -94,8 +91,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVFhpb2IwV04xdWs/view?resourcekey=0-Zzj4M2EAay7jGhxF7WL2Lg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVFhpb2IwV04xdWs&resourcekey=0-Zzj4M2EAay7jGhxF7WL2Lg" width="240" alt="1974 - M455 - 8-109-06-004 - BOOSTER AMPLIFIER.jpg"></a><br><sub>1974|7 · 8-109-06-004 - BOOSTER AMPLIFIER · <a href="SCHEMATICS/1974%20-%20M455%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1G2ukrnEDQ7E-eHxHmanMja5zEEUdlVPg/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1G2ukrnEDQ7E-eHxHmanMja5zEEUdlVPg" width="240" alt="19xx - M455 - DOC - 455-02-001 - COM REG.png"></a><br><sub>19xx - M455 - DOC - 455-02-001 - COM REG · <a href="SCHEMATICS/19xx%20-%20M455%20-%20DOC%20-%20455-02-001%20-%20COM%20REG%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3 (2).jpg`, `1978 - 455-01-001 - AUXILIARY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 3.jpg`, `19xx - 455-01-001.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -103,8 +98,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKclkwaF9mTUx6STA/view?resourcekey=0-aSj9oDRmTxk1unYtcbsMsg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKclkwaF9mTUx6STA&resourcekey=0-aSj9oDRmTxk1unYtcbsMsg" width="240" alt="1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.jpg"></a><br><sub>1974|7 · 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS · <a href="PINOUTS/1974%20-%20M455%20-%20455-04-002%20-%20REELN%20CONNECTOR%20REAR%20VIEW%20CALE%20OLS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M455 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -196,7 +189,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 455-01-001.kicad_sch](KICAD/19xx%20-%20455-01-001.kicad_sch)
 - [19xx - M455 - DOC - 455-02-001 - COM REG.kicad_sch](KICAD/19xx%20-%20M455%20-%20DOC%20-%20455-02-001%20-%20COM%20REG.kicad_sch)
 - [M455.kicad_sym](KICAD/M455.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
